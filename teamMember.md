@@ -1,20 +1,21 @@
 ## Welcome to join Deen Strong, my name is Sheng, I will be the developement team lead for the next 16 weeks. Since it's a 100% remote job, it's crucial to find a way to share code/assets efficiently. I came up with a simple task for you guys to start practicing a version control tool - Git. With the task, you can also get familliar with markdown, which is important when it comes to writing "README" file for the project. For now, we use Github as the platform for code sharing.
 
-markdown crash course [shorturl.at/ipqIL]
+markdown crash course [http://shorturl.at/ipqIL]
 
-git tutorial [shorturl.at/vyEY2]
+git tutorial [http://shorturl.at/vyEY2]
 
 ### Since we are a small team, it's relatively easy to get to know each other. The task goes like this... I'd like to know a few things from you:
 
-(horizontal rule, namely, a line)
+<hr/>
 
-- name and the name you'd like to go by (h2 font size)
+- name (h2 font size)
 - job title (h4 font size)
 - contact info (bold)
 - portolio, personal website or any other social media you'd like to share with others(links)
 - current location(regular front)
 - say something to the team (blockquote)
-  (horizontal rule)
+
+<hr/>
 
 ### How to submit the task?
 
@@ -36,7 +37,7 @@ git tutorial [shorturl.at/vyEY2]
 
 #### Developement team lead
 
-**contact info: shenghone@gmail.com (will change to company email soon), 437-981-5887**
+**contact info: sheng@deenstrong.com, 437-981-5887**
 portfolio: [https://shenghone.now.sh/]
 location: Toronto, ON
 

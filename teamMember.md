@@ -37,9 +37,9 @@ git tutorial [http://shorturl.at/vyEY2]
 
 #### Developement team lead
 
-**contact info: sheng@deenstrong.com, 437-981-5887**
-portfolio: [https://shenghone.now.sh/]
-location: Toronto, ON
+**contact info: sheng@deenstrong.com, 437-981-5887** <br/>
+portfolio: [https://shenghone.now.sh/] <br/>
+location: Toronto, ON <br/>
 
 > For the upcoming 16 weeks, you will make mistakes, lots of mistakes. Don't be afraid of making mistakes though. That shows you are trying something new. Don't be afraid of experiment things either. Those efforts will make our projects stand out from the crowd, most importantly, you will learn something during the process.
 > As a team, I hope everyone can help each other. If a function can be optimized, but you want to make it work first - leave a "TODO" comment on top to remind other developers and yourself. If you can't meet the deadline, tell me or other developers beforehand, so we can find some time to tackle the problem together. Remember, we are a team. We work as a team. Happy coding :)

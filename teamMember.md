@@ -45,3 +45,15 @@ location: Toronto, ON <br/>
 > As a team, I hope everyone can help each other. If a function can be optimized, but you want to make it work first - leave a "TODO" comment on top to remind other developers and yourself. If you can't meet the deadline, tell me or other developers beforehand, so we can find some time to tackle the problem together. Remember, we are a team. We work as a team. Happy coding :)
 
 ---
+
+## Paola Andrade Sequera - Paola
+
+#### Back-End Software Developer
+
+**contact info: paola@deenstrong.com - (780)-807 4881** <br/>
+linkedin: [here](https://www.linkedin.com/in/paola-andrade-sequera-b2287219a/) <br/>
+location: Edmonton, AB <br/>
+
+>Hello! It is very nice to meet everyone. I'm really looking forward to the next 16 weeks. Hoping to learn a lot from this experience. Let's do this, team!!!
+
+---

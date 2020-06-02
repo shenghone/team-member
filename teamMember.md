@@ -57,3 +57,11 @@ location: Edmonton, AB <br/>
 >Hello! It is very nice to meet everyone. I'm really looking forward to the next 16 weeks. Hoping to learn a lot from this experience. Let's do this, team!!!
 
 ---
+## Manchind Arora
+#### Back-End Software Developer
+
+**contact info: manchind@deenstrong.com** <br/>
+[Add me on Linkedin](https://www.linkedin.com/in/manchind-arora-64a8a5185/) <br/>
+Location: Toronto, Ontario <br/>
+>Hey guys! Looking forward to meeting everyone and learning alot! Feel free to add me on linkedin.
+

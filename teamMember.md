@@ -57,3 +57,12 @@ location: Edmonton, AB <br/>
 >Hello! It is very nice to meet everyone. I'm really looking forward to the next 16 weeks. Hoping to learn a lot from this experience. Let's do this, team!!!
 
 ---
+## Sirjan Singh Rekhi - Sirjan
+
+#### Front-End Lead
+
+**contact info: srekh085@uottawa.ca - 905-283-2973** <br/>
+Website: [http://sirjanrekhi.com/] <br/>
+location: Oakville, ON <br/>
+
+>Hey! It is great meeting you all. I am sure this will be a great learning experience for myself and others. I look forward to working, learning, and achieving with this team!

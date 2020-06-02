@@ -61,7 +61,7 @@ location: Edmonton, AB <br/>
 
 #### Front-End Lead
 
-**contact info: srekh085@uottawa.ca - 905-283-2973** <br/>
+**contact info: srekh085@uottawa.ca ; 905-483-2973** <br/>
 Website: [http://sirjanrekhi.com/] <br/>
 location: Oakville, ON <br/>
 

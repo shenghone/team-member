@@ -50,9 +50,9 @@ location: Toronto, ON <br/>
 
 #### Back-End Software Developer
 
-**contact info: paola@deenstrong.com - (780)-807 4881**
-linkedin: [here](https://www.linkedin.com/in/paola-andrade-sequera-b2287219a/)
-location: Edmonton, AB
+**contact info: paola@deenstrong.com - (780)-807 4881** <br/>
+linkedin: [here](https://www.linkedin.com/in/paola-andrade-sequera-b2287219a/) <br/>
+location: Edmonton, AB <br/>
 
 >Hello! It is very nice to meet everyone. I'm really looking forward to the next 16 weeks. Hoping to learn a lot from this experience. Let's do this, team!!!
 

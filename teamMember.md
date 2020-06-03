@@ -66,3 +66,17 @@ Website: [http://sirjanrekhi.com/] <br/>
 location: Oakville, ON <br/>
 
 >Hey! It is great meeting you all. I am sure this will be a great learning experience for myself and others. I look forward to working, learning, and achieving with this team!
+
+---
+
+## Nahiyan Chowdhury - Nahi
+
+#### Front End Developer
+
+
+**Contact Info: Nahiyan@deenstrong.com ; (403) 870-2056**<br/>
+Location: Calgary, Alberta<br/>
+
+>Greetings everyone! My name is Nahiyan, Nahi for short. I come from a mechanical engineering backround so I'm expecting to learn quite a lot with the team. Looking forward to get the ball rolling!
+
+---

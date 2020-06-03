@@ -75,3 +75,14 @@ location: Oakville, ON <br/>
 
 >Hey! It is great meeting you all. I am sure this will be a great learning experience for myself and others. I look forward to working, learning, and achieving with this team!
 
+---
+
+## Michelle Chan (Mich)
+#### UX/UI
+
+**contact info: michelle@deenstrong.com**
+[Add me on Linkedin](https://www.linkedin.com/in/cellehcim/) 
+Location: Metro Vancouver, BC
+
+> Looking forward to working on this project and applying what I've learned from school, personal projects, and hackathons. I'm familiar with some aspects of front-end, so I'm happy to help with that!
+

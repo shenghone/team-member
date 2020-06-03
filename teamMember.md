@@ -86,3 +86,13 @@ Location: Vancouver, BC <br/>
 
 >Nice to meet you all! I can't wait to start working on the projects with all of you. 
 
+---
+
+## Michelle Chan - Mich
+#### UX/UI Designer
+
+**contact info: michelle@deenstrong.com ; Slack me for my phone number** <br/>
+LinkedIn: linkedin.com/in/cellehcim <br/>
+Locaation: Vancouver, BC <br/>
+
+> Great to be working on this and I look forward to applying what I've learned from school, hackathons, and my projects. Nice to meet you!

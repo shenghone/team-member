@@ -81,7 +81,7 @@ location: Oakville, ON <br/>
 #### UX/UI
 
 **contact info: michelle@deenstrong.com** <br/>
-[Add me on Linkedin](https://www.linkedin.com/in/cellehcim/) 
+[Add me on Linkedin](https://www.linkedin.com/in/cellehcim/) </br>
 Location: Metro Vancouver, BC
 
 > Looking forward to working on this project and applying what I've learned from school, personal projects, and hackathons. I'm familiar with some aspects of front-end, so I'm happy to help with that!

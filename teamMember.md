@@ -80,7 +80,7 @@ location: Oakville, ON <br/>
 ## Michelle Chan (Mich)
 #### UX/UI
 
-**contact info: michelle@deenstrong.com**
+**contact info: michelle@deenstrong.com** <br/>
 [Add me on Linkedin](https://www.linkedin.com/in/cellehcim/) 
 Location: Metro Vancouver, BC
 

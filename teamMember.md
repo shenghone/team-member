@@ -95,4 +95,4 @@ Location: Vancouver, BC <br/>
 LinkedIn: https://linkedin.com/in/cellehcim <br/>
 Locaation: Vancouver, BC <br/>
 
-> Great to be working on this and I look forward to applying what I've learned from school, hackathons, and my projects. Nice to meet you!
+> Great to be working with y'all and I look forward to applying what I've learned from school, hackathons, and my projects to this. Nice to meet you!

@@ -92,7 +92,7 @@ Location: Vancouver, BC <br/>
 #### UX/UI Designer
 
 **contact info: michelle@deenstrong.com ; Slack me for my phone number** <br/>
-LinkedIn: linkedin.com/in/cellehcim <br/>
+LinkedIn: https://linkedin.com/in/cellehcim <br/>
 Locaation: Vancouver, BC <br/>
 
 > Great to be working on this and I look forward to applying what I've learned from school, hackathons, and my projects. Nice to meet you!

@@ -36,7 +36,6 @@ git tutorial [http://shorturl.at/vyEY2]
 ## Sheng Hung Tsai - Sheng
 
 #### Developement team lead
-
 **contact info: sheng@deenstrong.com, 437-981-5887** <br/>
 portfolio: [https://shenghone.now.sh/] <br/>
 location: Toronto, ON <br/>
@@ -47,7 +46,6 @@ location: Toronto, ON <br/>
 ---
 
 ## Paola Andrade Sequera - Paola
-
 #### Back-End Software Developer
 
 **contact info: paola@deenstrong.com - (780)-807 4881** <br/>
@@ -57,8 +55,18 @@ location: Edmonton, AB <br/>
 >Hello! It is very nice to meet everyone. I'm really looking forward to the next 16 weeks. Hoping to learn a lot from this experience. Let's do this, team!!!
 
 ---
-## Sirjan Singh Rekhi - Sirjan
 
+## Manchind Arora
+#### Back-End Software Developer
+
+**contact info: manchind@deenstrong.com** <br/>
+[Add me on Linkedin](https://www.linkedin.com/in/manchind-arora-64a8a5185/) <br/>
+Location: Toronto, Ontario <br/>
+>Hey guys! Looking forward to meeting everyone and learning alot! Feel free to add me on linkedin.
+
+---
+
+## Sirjan Singh Rekhi - Sirjan
 #### Front-End Lead
 
 **contact info: srekh085@uottawa.ca ; 905-483-2973** <br/>
@@ -66,3 +74,4 @@ Website: [http://sirjanrekhi.com/] <br/>
 location: Oakville, ON <br/>
 
 >Hey! It is great meeting you all. I am sure this will be a great learning experience for myself and others. I look forward to working, learning, and achieving with this team!
+

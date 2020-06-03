@@ -75,3 +75,14 @@ location: Oakville, ON <br/>
 
 >Hey! It is great meeting you all. I am sure this will be a great learning experience for myself and others. I look forward to working, learning, and achieving with this team!
 
+---
+
+## Tiffany (Yi Wen) Gu - Tiffany
+#### UI/UX Designer
+
+**contact info: tiffany@deenstrong.com ; 778-898-6841** <br/>
+Linkedlin: [https://www.linkedin.com/in/tiffanyyiwengu/] <br/>
+Location: Vancouver, BC <br/>
+
+>Nice to meet you all! I can't wait to start working on the projects with all of you. 
+

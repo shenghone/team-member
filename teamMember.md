@@ -96,3 +96,16 @@ LinkedIn: https://linkedin.com/in/cellehcim <br/>
 Locaation: Vancouver, BC <br/>
 
 > Great to be working with y'all and I look forward to applying what I've learned from school, hackathons, and my projects to this. Nice to meet you!
+
+---
+
+## Fauziya Shaikh
+#### Back-End Developer
+
+**contact info: fauziya@deenstrong.com ; 403-363-7016** <br/>
+LinkedIn: https://www.linkedin.com/in/fauziya-shaikh-53a56899/ <br/>
+Location: Calgary, AB <br/>
+
+> Excited to work with you all!!!Hoping to learn and implement most efficiently.
+
+---

@@ -109,3 +109,15 @@ Location: Calgary, AB <br/>
 > Excited to work with you all!!!Hoping to learn and implement most efficiently.
 
 ---
+
+## Nahiyan Chowdhury - Nahi
+
+#### Front End Developer
+
+
+**Contact Info: Nahiyan@deenstrong.com ; (403) 870-2056**<br/>
+Location: Calgary, Alberta<br/>
+
+>Greetings everyone! My name is Nahiyan, Nahi for short. I come from a mechanical engineering backround so I'm expecting to learn quite a lot with the team. If you have any favorite learning resources, let me know. Looking forward to get the ball rolling.
+
+---
